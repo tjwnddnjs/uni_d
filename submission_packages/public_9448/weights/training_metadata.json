@@ -1,0 +1,88 @@
+{
+  "train_rows": 28278,
+  "train_experiments": 70,
+  "excluded_train_experiments": [
+    {
+      "experiment_id": "E_1ea05d68e443468ea61cc5dde0af2ea8",
+      "rows": 807,
+      "transitions": [
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_2948927c24474929857d497d235c6b02",
+      "rows": 474,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_6dd8dd9be2b94893919871cfafa86b05",
+      "rows": 402,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_76966a23ed904ad9ac2f677360aada8c",
+      "rows": 1160,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_798605e979b9479aa3a53dddec8c07f4",
+      "rows": 466,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_d1836f898d254f5e976a25aeb5b15951",
+      "rows": 988,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_f2308dea15074044a47ed96821a49220",
+      "rows": 154,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "experiment_id": "E_f9e5e0a8707545c88d8830ef14dc5aeb",
+      "rows": 793,
+      "transitions": [
+        [
+          4,
+          6
+        ]
+      ]
+    }
+  ],
+  "validation_used_for_training": false,
+  "test_used_for_training": false
+}
